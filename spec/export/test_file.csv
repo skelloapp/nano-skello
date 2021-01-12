@@ -1,0 +1,14 @@
+Firstname;Lastname;Email;Number of worked shifts;Total of worked hours;Number of paid absence shifts;Total of paid absences hours;Number of unpaid absence shifts;Total of unpaid absence hours;Total of paid hours;Wages
+no-shifts-firstname-0;no-shifts-lastname-0;no-shifts-0@skello.io;0;0;0;0;0;0;0;0.0
+with-shifts-firstname0;with-shifts-lastname0;with-shifts-0@skello.io;1;1.0;1;1.0;1;1.0;2.0;20.0
+no-shifts-firstname-1;no-shifts-lastname-1;no-shifts-1@skello.io;0;0;0;0;0;0;0;0.0
+with-shifts-firstname1;with-shifts-lastname1;with-shifts-1@skello.io;1;1.0;1;1.0;1;1.0;2.0;30.0
+with-shifts-firstname2;with-shifts-lastname2;with-shifts-2@skello.io;1;1.0;1;1.0;1;1.0;2.0;50.0
+with-shifts-firstname3;with-shifts-lastname3;with-shifts-3@skello.io;1;1.0;1;1.0;1;1.0;2.0;20.0
+with-shifts-firstname4;with-shifts-lastname4;with-shifts-4@skello.io;1;1.0;1;1.0;1;1.0;2.0;30.0
+with-shifts-firstname5;with-shifts-lastname5;with-shifts-5@skello.io;1;1.0;1;1.0;1;1.0;2.0;50.0
+paid-absence-shift-firstname;paid-absence-shift-lastname;paid-absence-shift-@skello.io;0;0;1;4.0;0;0;4.0;400.0
+unpaid-absence-shift-firstname;unpaid-absence-shift-lastname;unpaid-absence-shift-@skello.io;0;0;0;0;1;6.0;0;0.0
+multi-contracts-firstname-3;multi-contracts-lastname-3;multi-contracts-3@skello.io;1;2.0;1;2.0;1;2.0;4.0;44.0
+multi-contracts-firstname-1;multi-contracts-lastname-1;multi-contracts-1@skello.io;3;6.0;0;0;0;0;6.0;74.0
+multi-contracts-firstname-2;multi-contracts-lastname-2;multi-contracts-2@skello.io;2;4.0;0;0;0;0;4.0;50.0
