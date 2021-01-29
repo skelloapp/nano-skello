@@ -87,7 +87,7 @@ Ensure all the remaining tests pass.
 
 ## Sending your results
 
-Once you are done, please send your project as a zip archive to dev@skello.io, and use the following format for the email subject: `[NanoSkello] YourFirstname YourLastname`.
+Once you are done, please send your project as a zip archive to test-technique@skello.io, and use the following format for the email subject: `[NanoSkello] YourFirstname YourLastname`.
 
 Please do not open a pull request on the `github.com/skelloapp/nano-skello` repository.
 
